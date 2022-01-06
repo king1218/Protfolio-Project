@@ -1,0 +1,172 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.button{
+    text-decoration: none;
+    background: rgb(4,22,21);
+    background: linear-gradient(90deg, rgba(4,22,21,0.958420868347339) 3%, rgba(249,23,42,1) 31%, rgba(255,0,91,1) 72%);
+    border-radius: 2px;
+    padding: 5px 10px;
+    color: azure;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.Image-1  {
+    
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 0%;
+      
+}
+.Image-1 img{
+    width: 60%;
+    padding-left: 15%;
+
+}
+
+.uper-section{
+    display: flex;
+}
+.text1{
+    width: 40%;
+    margin-top: 50px;
+    padding-left: 10%;
+    
+}
+.header-border{
+    border-left: 5px solid orangered;
+    font-size: 30px;
+    padding-left: 5px;
+
+}
+.text2022{
+    color: orangered;
+    padding-left: 10px;
+
+}
+.header2{
+    text-align: center;
+}
+.section2{
+  display: flex;
+  padding-top: 5%;
+
+}
+.Commitmentbox{
+width: 25%;
+background-color: rgb(255, 53, 211);
+padding:15px;
+    box-shadow: 10px 10px 30px grey;
+    margin-right:10%;
+    border-radius: 10px;
+
+}
+.Vissionbox {
+    width: 25%;
+    background-color: paleturquoise;
+    padding:15px;
+    box-shadow: 10px 10px 30px grey;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 10px;
+    }
+.Missionbox {
+        width: 25%;
+        background-color: rgb(108, 176, 240);
+        padding:15px;
+        box-shadow: 10px 10px 30px grey;
+        margin-left: 10%;
+        border-radius: 10px;
+        }
+.Commitmentbox img, .Vissionbox img, .Missionbox img{
+    width: 150px;
+}
+.section3{
+    display: flex;
+    padding-top: 20px;
+    margin-top: 3%;
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+.image-section3{
+    width: 28%;
+    padding-left: 5%;
+    
+}
+.word-section3{
+    width: 40%;
+    padding-left: 5%;
+    font-size: 24px;
+}
+.image-section4{
+    width: 25%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-left: 12%;
+    
+}
+.word-section4{
+    width: 40%;
+    padding-left: 5%;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.section4{
+    display: flex;
+    padding-top: 20px;
+    margin-top: 3%;
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom right;
+}
+.section4 img, .section3 img, .section5 img{
+    width: 100%;
+
+}
+.section5{
+    
+    padding-top: 20px;
+    align-items: center;
+    
+}
+
+.image-section5{
+    width: 30%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-left: 12%;
+    box-shadow: 10px 10px 40px green;
+} 
+.word-section5{
+    width: 40%;
+    padding-left: 5%;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.section5{
+    display: flex;
+    padding: 5%;
+}
+.botton{
+    text-decoration: none;
+    background: rgb(4,22,21);
+    background: linear-gradient(90deg, rgba(9, 252, 191, 0.958) 3%, rgb(30, 241, 41) 31%, rgb(64, 226, 14) 72%);
+    border-radius: 2px;
+    padding: 5px 10px;
+    color: azure;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+footer{
+ background-color: black;
+ text-align: center;
+ border-radius: 10px;
+ margin-top: 20px;
+ padding: 10px;
+ font-family: 'Moon Dance', cursive;
+ }
